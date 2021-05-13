@@ -1,0 +1,36 @@
+.navbar {
+    background-color: #e83e8c;
+}
+
+nav ul li {
+    font-size: 20px;
+}
+
+.navbar img {
+    width: 180px;
+}
+
+.container-fluid {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#credit_card {
+    background: #17a2b8;
+}
+
+.otra-p {
+    font-family: 'Open Sans';
+    font-weight: 40px;
+    font-size: 55px;
+    color: #ffffff;
+    text-align: left;    
+}
+footer {
+    background-color: #e83e8c;
+}
+
+footer img {
+    width:4%;
+}
